@@ -1,0 +1,2 @@
+- We use target 1 when images have the same class and t = 0 for different classes
+- Loss is binary cross entropy
